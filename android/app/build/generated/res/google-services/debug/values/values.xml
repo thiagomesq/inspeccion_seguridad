@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">247485095481-tc47nv1k2efsjriapn6cit32ena4opmm.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">247485095481</string>
+    <string name="google_api_key" translatable="false">AIzaSyCCX1MBpRMiz7J8_BDk_8O4sHnNmTgX7HM</string>
+    <string name="google_app_id" translatable="false">1:247485095481:android:8f7e833a79102ac523f7e8</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyCCX1MBpRMiz7J8_BDk_8O4sHnNmTgX7HM</string>
+    <string name="google_storage_bucket" translatable="false">inspeccion-de-seguridad.appspot.com</string>
+    <string name="project_id" translatable="false">inspeccion-de-seguridad</string>
+</resources>
